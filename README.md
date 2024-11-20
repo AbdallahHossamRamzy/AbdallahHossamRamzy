@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AbdallahHossamRamzy
+- 👀 I’m interested in Embedded systems development
+- 🌱 I’m currently learning Raspberry Pi & Python
+- 💞️ I’m looking to collaborate on my graduation project team
